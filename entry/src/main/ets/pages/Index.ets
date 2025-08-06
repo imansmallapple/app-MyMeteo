@@ -7,7 +7,7 @@ import { ErrorComponent } from '../view/ui/ErrorComponent';
 import { weatherViewModel, WeatherViewModel } from '../viewmodel/WeatherViewModel';
 
 
-export enum ViewState {
+export enum ViewState { 
   IDLE,
   LOADING,
   ERROR,
